@@ -1,0 +1,4 @@
+gradio
+requests
+beautifulsoup4
+html5lib

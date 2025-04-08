@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: web-cloner
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python web_cloner_gradio.py
+
