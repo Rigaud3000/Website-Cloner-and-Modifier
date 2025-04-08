@@ -2,3 +2,5 @@ gradio
 requests
 beautifulsoup4
 html5lib
+google-generativeai
+python-dotenv
